@@ -20,7 +20,9 @@ https://github.com/1adrianb/face-alignment
 
 ## References to recent projects on 3D CNN's 
 
-
+https://github.com/griegler/octnet
+marching cubes algorithm to extract isosurfaces from volumetric data:
+https://github.com/davidstutz/PyMCubes
 
 ## References to recent projects on video analysis and activity recognition with NN's 
 
