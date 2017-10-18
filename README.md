@@ -17,6 +17,7 @@ https://github.com/liuzhuang13/DenseNet
 ## References to recent projects on 2D and 3D face recognition tasks
 
 https://github.com/1adrianb/face-alignment
+https://github.com/MarekKowalski/DeepAlignmentNetwork
 
 ## References to recent projects on 3D CNN's 
 
